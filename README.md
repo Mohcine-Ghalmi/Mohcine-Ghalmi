@@ -6,14 +6,15 @@
 
 ## 👇 Badges
 
+---
+
 <p align="center">
-  <a href="https://github.com/Mohcine-Ghalmi"><img src="https://github-readme-stats.vercel.app/api?username=Mohcine-Ghalmi&hide_border=true&show_icons=true" alt="Mohcine-Ghalmi github stats"></a>
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Mohcine-Ghalmi&hide_border=true&show_icons=true" alt="Mohcine-Ghalmi github stats">
   
-<p align="center">
-<a href="https://github.com/Mohcine-Ghalmi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcine-Ghalmi&layout=compact&hide_border=true&theme=dracula" alt="Mohcine-Ghalmi github stats"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcine-Ghalmi&layout=compact&hide_border=true&theme=dracula" alt="Mohcine-Ghalmi github stats">
 </p>
 
+---
 
 ## 👇 Connect with me:
 
