@@ -1,4 +1,4 @@
-# Hi there, I'm GHALMI MOHCINE- aka SLEEPS 👋
+# 👋 &nbsp;Hi there, I'm GHALMI MOHCINE- aka SLEEPS
 
 <p align="center">
 <img src="https://badge.mediaplus.ma/binary/mghalmi" alt="mghalmi 42" align="center" style="left: 50%"/>
@@ -24,7 +24,7 @@
 
 <br/>
 
-<h2>Languages and Tools:</h2>
+## 🧰 &nbsp;Languages and Tools
 
 <img width="40px" align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
   
@@ -39,3 +39,7 @@
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  
+ <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40px" align="left"/>
+  
+ <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> 
