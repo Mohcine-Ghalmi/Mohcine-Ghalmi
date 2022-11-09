@@ -3,27 +3,24 @@
 
 ### Connect with me:
 
-[<img align="left" width="26px"
-alt="twitter" src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/>][twitter]
+<a href="https://twitter.com/ghalmi_mohcine" target="blank"><img align="left" width="26px" alt="twitter" src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/><a/>
 
-[<img align="left" width="26px"
-alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][linkedin]
-
-[<img align="left" width="26px"
-alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png"/>][instagram]
+<a href="https://www.linkedin.com/in/mohcine-ghalmi-759a12209/" target="blank"><img align="left" width="26px" alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/><a/>
 
 <br/>
 
 <h2>Languages and Tools:</h2>
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][javascript]
+<img width="40px" align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+  
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />][html]
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />][css]
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />][c]
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][c++]
+<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
