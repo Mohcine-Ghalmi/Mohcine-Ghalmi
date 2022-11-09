@@ -42,4 +42,4 @@
   
  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40px" align="left"/>
   
- <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> 
+ <img width="40px" align="left" src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> 
