@@ -1,7 +1,8 @@
 # 👋 &nbsp;Hi there, I'm GHALMI MOHCINE- aka SLEEPS
 
+
 <p align="center">
-<img src="https://badge.mediaplus.ma/binary/mghalmi" alt="mghalmi 42" align="center" style="left: 50%"/>
+<img src="https://badge.mediaplus.ma/binary/mghalmi" alt="mghalmi 42" width="500">
 </p>
 
 ## 👇 Badges
