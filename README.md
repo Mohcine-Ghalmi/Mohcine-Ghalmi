@@ -9,9 +9,9 @@
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mohcine-Ghalmi&hide_border=true&show_icons=true" alt="Mohcine-Ghalmi github stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Mohcine-Ghalmi&hide_border=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohcine-Ghalmi github stats">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcine-Ghalmi&layout=compact&hide_border=true&theme=dracula" alt="Mohcine-Ghalmi github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcine-Ghalmi&layout=compact&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohcine-Ghalmi github stats">
 </p>
 
 ---
