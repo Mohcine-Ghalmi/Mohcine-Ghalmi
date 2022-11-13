@@ -57,7 +57,6 @@
  <img width="40px" align="left" src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> 
  
  ## Support:
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohcineghalmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="makramboukaiz" /></a></p><br><br>
 
 
