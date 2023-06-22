@@ -29,6 +29,47 @@
 ## 🧰 &nbsp;Languages and Tools
  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,wordpress,visualstudio,linux,php,mysql,eclipse,bootstrap,java,jquery,powershell,pr,ps)](https://skillicons.dev)
+
+## 1337 cursu
+<h3>Libft</h3>
+
+[![mghalmi's 42 Libft Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2854220)](https://github.com/JaeSeoKim/badge42)
+
+<h3>get_next_line</h3>
+
+[![mghalmi's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2867745)](https://github.com/JaeSeoKim/badge42)
+
+<h3>ft_printf</h3>
+
+[![mghalmi's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2879668)](https://github.com/JaeSeoKim/badge42)
+
+<h3>Born2beroot</h3>
+
+[![mghalmi's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2899831)](https://github.com/JaeSeoKim/badge42)
+
+<h3>pipex</h3>
+
+[![mghalmi's 42 pipex Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2922580)](https://github.com/JaeSeoKim/badge42)
+
+<h3>FdF</h3>
+
+[![mghalmi's 42 FdF Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2950900)](https://github.com/JaeSeoKim/badge42)
+
+<h3>Exam Rank 02</h3>
+
+[![mghalmi's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2919816)](https://github.com/JaeSeoKim/badge42)
+
+<h3>push_swap</h3>
+
+[![mghalmi's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/2919816)](https://github.com/JaeSeoKim/badge42)
+
+<h3>Philosophers</h3>
+
+[![mghalmi's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/3080469)](https://github.com/JaeSeoKim/badge42)
+
+<h3>minishell</h3>
+
+[![mghalmi's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/project/3080469)](https://github.com/JaeSeoKim/badge42)
  
  <h3> Support:</h3>
 <!--<a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohcineghalmi" /></a>-->
