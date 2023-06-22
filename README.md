@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://badge.mediaplus.ma/binary/mghalmi" alt="mghalmi 42" width="500">
+<img src="https://badge42.vercel.app/api/v2/clj74iwyq007308l6z73lj45j/stats?cursusId=67&coalitionId=76" alt="mghalmi 42" width="500">
 </p>
 
 ## 👇 stats
