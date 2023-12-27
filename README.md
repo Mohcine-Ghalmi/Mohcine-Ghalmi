@@ -28,7 +28,7 @@
 
 ## 🧰 &nbsp;Languages and Tools
  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,wordpress,visualstudio,linux,php,mysql,eclipse,bootstrap,java,jquery,powershell,pr,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,javascript,github,git,wordpress,visualstudio,linux,php,mysql,eclipse,bootstrap,java,jquery,powershell,pr,ps,django)](https://skillicons.dev)
 
  <h3> Support:</h3>
 <!--<a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohcineghalmi" /></a>-->
