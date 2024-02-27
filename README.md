@@ -1,8 +1,7 @@
 # 👋 &nbsp;Hi there, I'm GHALMI MOHCINE- aka SLEEPS
 
-
 <p align="center">
-<a href=""><img src="https://badge.mediaplus.ma/binary/mghalmi" alt="mghalmi 42" align="center" style="left: 50%"/></a>
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="900" height="400"/>
  </p>
 
 ## 👇 stats
