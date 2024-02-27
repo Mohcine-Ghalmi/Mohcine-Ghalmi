@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href=""><img src="https://badge.mediaplus.ma/binary/mghalmi" alt="selhilal 42" align="center" style="left: 50%"/></a>
+<a href=""><img src="https://badge.mediaplus.ma/binary/mghalmi" alt="mghalmi 42" align="center" style="left: 50%"/></a>
  </p>
 
 ## 👇 stats
