@@ -17,7 +17,7 @@
 <img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohcine-Ghalmi&hide_border=true&theme=dark" />
 </p>
 
-<img width="980" src="https://leetcode.card.workers.dev/JacobLinCool?theme=dark&font=baloo&extension=null"/>
+<img width="100%" src="https://leetcode.card.workers.dev/Mohcine-Ghalmi?theme=dark&font=baloo&extension=null"/>
 ---
 
 ## 👇 Connect with me:
