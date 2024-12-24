@@ -13,16 +13,19 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohcine-Ghalmi&theme=dark" />
 </p>
 
-<p>
+<p align="center">
 <img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohcine-Ghalmi&hide_border=true&theme=dark" />
 </p>
 
 
-<img width="100%" src="https://leetcode.card.workers.dev/Mohcine-Ghalmi?theme=dark&font=baloo&extension=activity"/>
+<img align="center" width="100%" src="https://leetcard.jacoblin.cool/Mohcine-Ghalmi?theme=dark"/>
+
+
 
 ## 👇 Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ghalmi_mohcine)
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohcine-ghalmi-759a12209/)
 
 
