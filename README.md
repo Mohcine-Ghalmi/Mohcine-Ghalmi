@@ -25,7 +25,6 @@
 ## 👇 Connect with me:
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ghalmi_mohcine)
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohcine-ghalmi-759a12209/)
 
 
